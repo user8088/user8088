@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently exploring AI & Machine Learning<br><br>🤝 I’m looking for help with docker and server side development.<br><br>👨‍💻 All of my projects are available at www.paragonnexus.net<br><br>💬 Ask me about Laravel, JavaScript, Figma and the art we can make using them !<br><br>📫 How to reach me asimmahmood@11110gmail.com<br><br>⚡ Fun fact I benchpress more than you.</p>
+<p align="left">🌱 I’m currently exploring AI & Machine Learning<br>🤝 I’m looking for help with docker and server side development.<br>👨‍💻 All of my projects are available at www.paragonnexus.net<br>💬 Ask me about Laravel, JavaScript, Figma and the art we can make using them !<br>📫 How to reach me asimmahmood@11110gmail.com<br>⚡ Fun fact I benchpress more than you.</p>
 
 ###
 
