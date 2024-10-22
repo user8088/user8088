@@ -1,4 +1,4 @@
-<h2 align="left">Iam Asim 👋 A Software Developer Pioneering a Digital Renaissance.</h2>
+<h2 align="left">Iam Asim 👋 - Software Developer.</h2>
 
 ###
 
