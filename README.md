@@ -1,13 +1,4 @@
 <h2 align="center">Iam Asim 👋 A Software Developer Pioneering a Digital Renaissance.</h2>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=user8088&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <br clear="both">
 
 <img align="left" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRjaDNuZ2oyNGIwbzB4emtndWpyb3Fzam9rcGpyNWprZXMwdDl2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJtdD0BtR9aOVMaxOl/giphy.webp"  />
@@ -48,5 +39,10 @@
 ###
 
 <br clear="both">
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=user8088&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
 ###
