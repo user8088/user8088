@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">My Tech Stack</h1>
+<h2 align="center">My Tech Stack</h2>
 
 ###
 
@@ -55,7 +55,7 @@
 
 ###
 
-<h1 align="center">Connect with me at</h1>
+<h2 align="center">Connect with me at</h2>
 
 ###
 
@@ -67,6 +67,10 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
 </div>
+
+###
+
+<h2 align="center">Github Stats</h2>
 
 ###
 
